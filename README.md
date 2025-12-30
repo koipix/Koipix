@@ -8,7 +8,7 @@
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">❤ Just a UNIX snob and aspiring student currently working on small projects as indie game dev and research, also draws stuff sometimes!</p>
+<p align="center">❤ Just a UNIX snob and aspiring student currently working on small projects as indie game dev and research, also draws stuff sometimes <3</p>
 
 <p align="center">
   <strong> Itch.io: <a href="https://koipix.itch.io/"> koipix</a></strong> | 
