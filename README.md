@@ -14,7 +14,6 @@
 </p>
 
 <div align="center">
-  <p align="left">❤ Just a UNIX snob and aspiring student currently working on small projects as indie game dev, AI and research. I also draws stuff sometimes!</p>
   <img src="https://count.getloli.com/@koipix?lalign=center&scale=2" alt="koipix" />
 </div>
 
