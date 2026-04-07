@@ -4,7 +4,12 @@
   </a>
 </p>
 
-<h1 align="center">hii, i'm <a href="https://www.koipix0w0.site/">koi</a>!</h1>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=10000&color=E398F7&center=true&width=435&lines=hii!+i'm+koi+:3)](https://git.io/typing-svg)
+  
+</div>
+
 <p align="center"><img align="center" alt="codwar" src="https://www.codewars.com/users/Koii/badges/large"></p>
 
 <p align="center">
