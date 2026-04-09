@@ -1,14 +1,14 @@
-<p align="center">
-  <a href="https://koipix.vercel.app">
-    <img src="https://i.imgur.com/916dk5B.gif" alt="vennie-shiggy" width="40%">
-  </a>
-</p>
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=10000&color=E398F7&center=true&width=435&lines=hii!+i'm+koi+:3)](https://git.io/typing-svg)
   
 </div>
+<p align="center">
+  <a href="https://koipix.vercel.app">
+    <img src="https://i.imgur.com/916dk5B.gif" alt="vennie-shiggy" width="40%">
+  </a>
+</p>
 
 <p align="center"><img align="center" alt="codwar" src="https://www.codewars.com/users/Koii/badges/large"></p>
 
