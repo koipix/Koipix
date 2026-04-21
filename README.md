@@ -13,7 +13,6 @@
 
 <p align="center">
   <strong> Itch.io: <a href="https://koipix.itch.io/"> koipix</a></strong> | 
-  <strong> X (Twt): <a href="https://x.com/Koipixu"> koipixu</a></strong> |
   <strong> Codewars: <a href="https://www.codewars.com/users/Koii"> Koii</a></strong>
 </p>
 
