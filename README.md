@@ -12,8 +12,8 @@
 <p align="center"><img align="center" alt="codwar" src="https://www.codewars.com/users/Koii/badges/large"></p>
 
 <p align="center">
-  <strong> Itch.io: <a href="https://koipix.itch.io/"> koipix</a></strong> | 
-  <strong> Codewars: <a href="https://www.codewars.com/users/Koii"> Koii</a></strong>
+  <a href="https://koipix.itch.io/"><img src="https://img.shields.io/static/v1?label=Itch.io&message=koipix&color=pink" /></a>
+  <a href="https://www.codewars.com/users/Koii"><img src="https://img.shields.io/static/v1?label=Codewars&message=Koii&color=red" /></a>
 </p>
 
 <div align="center">
